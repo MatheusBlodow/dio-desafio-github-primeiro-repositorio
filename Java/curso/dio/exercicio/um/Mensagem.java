@@ -1,4 +1,4 @@
-package curso.dio;
+package curso.dio.exercicio.um;
 
 public class Mensagem {
 
